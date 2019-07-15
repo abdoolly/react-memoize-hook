@@ -113,4 +113,4 @@ let myExampleComponent = () => {
 };
 ```
 
-### Please raise an issue [here]([https://github.com/abdoolly/react-memoize-hook/issues] if there are any bugs.
+### Please raise an issue [here](https://github.com/abdoolly/react-memoize-hook/issues) if there are any bugs.
