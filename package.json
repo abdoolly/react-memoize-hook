@@ -1,6 +1,6 @@
 {
   "name": "react-memoize-hook",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "This is a simple library that exposes a react hook called useMemoization which helps to cache functions that make heavy calculations and only renew the cache based on deps array just like any known react hook",
   "main": "build/index.js",
   "types": "build/index.d.ts",
