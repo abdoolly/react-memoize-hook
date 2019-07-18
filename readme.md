@@ -2,6 +2,8 @@
 
 ### This is a simple library that exposes a custom made hook which is similar to the `useMemo` hook in react but , it accepts parameters so , it's flexible and easy enough to use anywhere
 
+[![npm version](https://badge.fury.io/js/react-memoize-hook.svg)](https://badge.fury.io/js/react-memoize-hook)
+
 ## Installation
 
 ```
